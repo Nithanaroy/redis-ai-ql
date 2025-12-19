@@ -1,0 +1,5 @@
+{
+  "name": "RedisQuery AI",
+  "description": "A sophisticated natural language to Redis command generator that translates English queries into optimized Redis Stack commands using your provided schema.",
+  "requestFramePermissions": []
+}
